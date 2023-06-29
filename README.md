@@ -1,2 +1,1 @@
-# Lawless RP eltrician job helper
- The relase of the infamous Lawless RP eletrician job auto farm
+The author of this script is SpnKO, the script used to be sold (or maybe it still is, as I don't play anymore and I don't know) for a few hundred in-game currency. I obtained it from a friend who purchased it to help us progress faster, which turned out to be incredibly beneficial.
